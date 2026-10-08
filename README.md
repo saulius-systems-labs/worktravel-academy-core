@@ -1,37 +1,73 @@
 # WorkTravel Academy Core
 
-Core repository for the WorkTravel Academy collaboration and learning platform.
+Core platform for WorkTravel Academy — collaborative learning, contributor onboarding, and community-driven skill development.
 
-This project is intended to serve as the public foundation for the academy’s learning experience, contributor model, and collaborative educational infrastructure. It supports a clear building block for structured learning, project-based progress, and community engagement.
+This repository is the public foundation for the WorkTravel Academy learning model. It provides a transparent structure for how learning experiences, contributor pathways, and community-driven education systems can be designed, improved, and scaled over time.
 
-## Purpose
+## Mission
 
-The academy core is meant to provide a practical foundation for:
-- learning path coordination
-- skill progression and structured guidance
-- public project-based education
-- collaborative learning experiences
+WorkTravel Academy exists to help people build practical skills in modern engineering, AI operations, and software delivery through structured learning, community interaction, and real-world capability-building.
+
+## What this repository covers
+
+- learning architecture and progression design
+- contributor and member onboarding flows
+- structured educational pathways
+- community-driven learning and engagement patterns
+- practical guidance for skill development
+- collaborative learning system foundations
+
+## Why this matters
+
+Education and capability-building work best when they are:
+- structured and understandable
+- practical and measurable
+- transparent and community-oriented
+- designed for real-world execution
+
+This repository is meant to support that approach in a way that is open, useful, and easy to contribute to.
 
 ## Scope
 
-This repository may include:
-- learning architecture notes
-- academy structure and workflows
-- project and learning progression patterns
-- public community-oriented platform guidance
-- collaboration and onboarding requirements
+This project may include:
+- learning model and academy structure
+- member journey and onboarding notes
+- education system design patterns
+- contribution and community practices
+- practical guidance for skill progression
 
-## Community model
+## Public collaboration model
 
-The academy should remain practical, accessible, and contributor-friendly. It is designed to combine structured learning with community interaction and transparent practices.
+This repository is part of the broader public collaboration layer of saulius-systems-labs, alongside:
 
-## Related repositories
+- [AI Operations Community](https://github.com/saulius-systems-labs/ai-operations-community)
+- [Contributor Verification System](https://github.com/saulius-systems-labs/contributor-verification-system)
+- [Developer Learning Paths](https://github.com/saulius-systems-labs/developer-learning-paths)
+- [Collaboration Framework](https://github.com/saulius-systems-labs/collaboration-framework)
 
-- https://github.com/saulius-systems-labs/ai-operations-community
-- https://github.com/saulius-systems-labs/developer-learning-paths
-- https://github.com/saulius-systems-labs/contributor-verification-system
-- https://github.com/saulius-systems-labs/collaboration-framework
+## Community principles
+
+- practical learning over theory-only content
+- transparency over hidden process
+- contributor-first design
+- clarity, usability, and trust in experience design
+- human-centered growth and practical skills development
+
+## Get involved
+
+If you are interested in learning, contributing, or collaborating:
+
+- Explore the public org: https://github.com/saulius-systems-labs
+- Join the community: https://github.com/saulius-systems-labs/ai-operations-community
+- Explore talent opportunities: https://www.worktravel.agency/for-talent
+- Follow the newsletter: https://www.linkedin.com/newsletters/engineering-my-ai-twin-7497215161590521856/
+- Watch the academy content: https://www.youtube.com/@AI-Systems-Skills-Academy
+- Support the mission: https://opencollective.com/saulius-systems-labs
 
 ## Maintainers
 
 This repository is public and community-facing under the saulius-systems-labs organization.
+
+## Note
+
+Public repositories document reusable work and public collaboration patterns. Active member, delivery, and production systems remain private by design.
